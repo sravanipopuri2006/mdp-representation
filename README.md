@@ -101,7 +101,8 @@ P
 ```
 
 ## OUTPUT:
-![Uploading image.png…]()
+<img width="434" height="548" alt="Screenshot 2025-08-30 113441" src="https://github.com/user-attachments/assets/bd19b66b-f2cb-495c-bf9b-6ee73e401f4b" />
+
 
 
 ## RESULT:
