@@ -1,4 +1,4 @@
-# MDP REPRESENTATION
+<img width="799" height="703" alt="Screenshot 2025-08-30 112233" src="https://github.com/user-attachments/assets/1f410d63-5b57-40e6-ad10-0a63526837be" /># MDP REPRESENTATION
 
 ## AIM:
 To represent a Markov Decision Process(MDP) problem in the following ways.
@@ -34,7 +34,9 @@ To develop an environment consisting of a mobile tower as the start and the hous
 0 - Otherwise
 
 ### Graphical Representation
-![Uploading Screenshot 2025-08-30 112233.png…]()
+<img width="799" height="703" alt="Screenshot 2025-08-30 112233" src="https://github.com/user-attachments/assets/f075c52d-5fcd-4c97-b23b-c0780ce58311" />
+
+
 
 
 ## PYTHON REPRESENTATION:
@@ -97,7 +99,8 @@ P = {
     }
 }
 
-P
+
+
 ```
 
 ## OUTPUT:
