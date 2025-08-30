@@ -1,4 +1,4 @@
-<img width="799" height="703" alt="Screenshot 2025-08-30 112233" src="https://github.com/user-attachments/assets/1f410d63-5b57-40e6-ad10-0a63526837be" /># MDP REPRESENTATION
+# MDP REPRESENTATION
 
 ## AIM:
 To represent a Markov Decision Process(MDP) problem in the following ways.
